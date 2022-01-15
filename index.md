@@ -6,7 +6,7 @@ layout: default
 
 ``cole_graham@brown.edu``
 
-Office 213A
+Office 213A  
 182 George St
 
 # About
@@ -27,8 +27,8 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
     with Sanchit Chaturvedi  
     In preparation
 
-*   Invariant measures for stochastic conservation laws on the line
-    with Theodore Drivas, Alex Dunlap, Joonhyun La, and Lenya Ryzhik
+*   Invariant measures for stochastic conservation laws on the line  
+    with Theodore Drivas, Alex Dunlap, Joonhyun La, and Lenya Ryzhik  
     In preparation
 
 *   The distance between the two BBM leaders  
