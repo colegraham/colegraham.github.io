@@ -23,8 +23,8 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 # Articles
 
-*   The inviscid limit of viscous Burgers at a nondegenerate first shock
-    _with_ Sanchit Chaturvedi
+*   The inviscid limit of viscous Burgers at a nondegenerate first shock\
+    _with_ Sanchit Chaturvedi\
     In preparation
 
 *   Invariant measures for stochastic conservation laws on the line
