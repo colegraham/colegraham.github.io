@@ -37,7 +37,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 *   Reaction-diffusion equations in the half-space  
     with Henri Berestycki  
-    To appear in _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire
+    To appear in _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire_
 
 *   The Bramson correction for integro-differential Fisher–KPP equations  
     To appear in _Commun. Math. Sci._
