@@ -24,42 +24,42 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 # Articles
 
 *   The inviscid limit of viscous Burgers at a nondegenerate first shock  
-    _with_ Sanchit Chaturvedi  
+    with Sanchit Chaturvedi  
     In preparation
 
 *   Invariant measures for stochastic conservation laws on the line
-    _with_ Theodore Drivas, Alex Dunlap, Joonhyun La, and Lenya Ryzhik
+    with Theodore Drivas, Alex Dunlap, Joonhyun La, and Lenya Ryzhik
     In preparation
 
 *   The distance between the two BBM leaders  
-    _with_ Julien Berestycik, Éric Brunet, Leonid Mytnik, Jean-Michel Roquejoffre, and Lenya Ryzhik  
+    with Julien Berestycik, Éric Brunet, Leonid Mytnik, Jean-Michel Roquejoffre, and Lenya Ryzhik  
     To appear in _Nonlinearity_
 
 *   Reaction-diffusion equations in the half-space  
-    _with_ Henri Berestycki  
+    with Henri Berestycki  
     To appear in _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire
 
 *   The Bramson correction for integro-differential Fisher–KPP equations  
     To appear in _Commun. Math. Sci._
 
 *   Stationary solutions to the stochastic Burgers equation on the line  
-    _with_ Alex Dunlap and Lenya Ryzhik  
-    _Comm. Math. Phys._ *382* (2021) 875--949
+    with Alex Dunlap and Lenya Ryzhik  
+    _Comm. Math. Phys._ **382** (2021) 875--949
 
 *   Irregularity of distribution in Wasserstein distance  
-    _J. Fourier. Anal. Appl._ *26* (2020) 75
+    _J. Fourier. Anal. Appl._ **26** (2020) 75
 
 *   An entropy proof of the arithmetic mean–geometric mean inequality  
-    _with_ Tadashi Tokieda  
-    _Am. Math. Mon._ *127* (2020) 545--546
+    with Tadashi Tokieda  
+    _Am. Math. Mon._ **127** (2020) 545--546
 
-*   Precise asymptotics for Fisher-–KPP fronts  
-    _Nonlinearity_ *32* (2019) 1967--1998
+*   Precise asymptotics for Fisher--KPP fronts  
+    _Nonlinearity_ **32** (2019) 1967--1998
 
 *   Existence and non-existence of transition fronts in mixed ignition-monostable media  
-    _with_ Tau Shean Lim, Andy Ma, and David Weber  
-    _Nonlinearity_ *31* (2018) 651--666
+    with Tau Shean Lim, Andy Ma, and David Weber  
+    _Nonlinearity_ **31** (2018) 651--666
 
 *   Universal Bell correlations do not exist  
-    _with_ William Hoza  
-    _Phys. Rev. Lett._ *119* 050402
+    with William Hoza  
+    _Phys. Rev. Lett._ **119** 050402
