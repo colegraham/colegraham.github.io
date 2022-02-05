@@ -20,20 +20,18 @@
 
 title: 'Cole Graham'
 email: contact@colegraham.net
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-domain: colegraham.net
-baseurl: "" # the subpath of your site, e.g. /blog
+description:
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: https://colegraham.net # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  colegraham
+# twitter_username:
+# github_username: colegraham
 
 # Build settings
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/portrait.jpg
+show_downloads: false
+google_analytics:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one

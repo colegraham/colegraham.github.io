@@ -3,14 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Cole Graham
 ---
 
 # Contact
 
 ``cole_graham@brown.edu``
 
-Office 213A  
-182 George St
+Division of Applied Mathematics  
+182 George St  
+Office 213A
 
 # About
 
