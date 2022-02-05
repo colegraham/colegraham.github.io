@@ -8,7 +8,7 @@ title: Cole Graham
 
 # Contact
 
-``cole_graham@brown.edu``
+[``cole_graham@brown.edu``](mailto:cole_graham@brown.edu)
 
 Division of Applied Mathematics  
 182 George St  
@@ -34,37 +34,46 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 *   Invariant measures for stochastic conservation laws on the line  
     with Theodore Drivas, Alex Dunlap, Joonhyun La, and Lenya Ryzhik  
-    In preparation
+    Submitted
+    [\[arXiv\]](https://arxiv.org/abs/2201.12641)
 
 *   The distance between the two BBM leaders  
     with Julien Berestycik, Éric Brunet, Leonid Mytnik, Jean-Michel Roquejoffre, and Lenya Ryzhik  
     To appear in _Nonlinearity_
+    [\[arXiv\]](https://arxiv.org/abs/2010.10431)
 
 *   Reaction-diffusion equations in the half-space  
     with Henri Berestycki  
     To appear in _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire_
+    [\[arXiv\]](https://arxiv.org/abs/2007.13909)
 
-*   The Bramson correction for integro-differential Fisher–KPP equations  
-    To appear in _Commun. Math. Sci._
+*   [The Bramson correction for integro-differential Fisher–KPP equations](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0020/0002/a012/)  
+    _Commun. Math. Sci._ **20** (2022) 563--596
+    [\[arXiv\]](https://arxiv.org/abs/2005.04524)
 
-*   Stationary solutions to the stochastic Burgers equation on the line  
+*   [Stationary solutions to the stochastic Burgers equation on the line](https://link.springer.com/article/10.1007/s00220-021-04025-x)  
     with Alex Dunlap and Lenya Ryzhik  
     _Comm. Math. Phys._ **382** (2021) 875--949
+    [\[arXiv\]](https://arxiv.org/abs/1910.07464)
 
-*   Irregularity of distribution in Wasserstein distance  
+*   [Irregularity of distribution in Wasserstein distance](https://link.springer.com/article/10.1007%2Fs00041-020-09786-y)  
     _J. Fourier. Anal. Appl._ **26** (2020) 75
+    [\[arXiv\]](https://arxiv.org/abs/1910.14181)
 
-*   An entropy proof of the arithmetic mean–geometric mean inequality  
+*   [An entropy proof of the arithmetic mean–geometric mean inequality](https://www.tandfonline.com/doi/full/10.1080/00029890.2020.1738827)  
     with Tadashi Tokieda  
     _Am. Math. Mon._ **127** (2020) 545--546
 
-*   Precise asymptotics for Fisher--KPP fronts  
+*   [Precise asymptotics for Fisher--KPP fronts](https://iopscience.iop.org/article/10.1088/1361-6544/aaffe8)  
     _Nonlinearity_ **32** (2019) 1967--1998
+    [\[arXiv\]](https://arxiv.org/abs/1712.02472)
 
-*   Existence and non-existence of transition fronts in mixed ignition-monostable media  
+*   [Existence and non-existence of transition fronts in mixed ignition-monostable media](https://iopscience.iop.org/article/10.1088/1361-6544/aa952c)  
     with Tau Shean Lim, Andy Ma, and David Weber  
     _Nonlinearity_ **31** (2018) 651--666
+    [\[arXiv\]](https://arxiv.org/abs/1705.03563)
 
-*   Universal Bell correlations do not exist  
+*   [Universal Bell correlations do not exist](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.050402)  
     with William Hoza  
     _Phys. Rev. Lett._ **119** 050402
+    [\[arXiv\]](https://arxiv.org/abs/1612.05680)
