@@ -10,17 +10,18 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{  site.title | default: site.github.repository_name  }}</h1>
+        <h1>{{  site.title  }}</h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" width="200" height="300"/>
         {% endif %}
 
-        <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
+	<p>{{ site.description }}</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
