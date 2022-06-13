@@ -40,7 +40,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 *   [The distance between the two BBM leaders](https://iopscience.iop.org/article/10.1088/1361-6544/ac4a8e)  
     with Julien Berestycki, Éric Brunet, Leonid Mytnik, Jean-Michel Roquejoffre, and Lenya Ryzhik  
-    _Nonlinearity_ **35** (2022) 1558--1609  
+    _Nonlinearity_ **35** (2022) 1558--1609
     [\[arXiv\]](https://arxiv.org/abs/2010.10431)
 
 *   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
