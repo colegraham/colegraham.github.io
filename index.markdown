@@ -22,7 +22,7 @@ I completed my PhD in 2021 at Stanford University under the direction of Lenya R
 
 # Interests
 
-Partial differential equations (PDEs) and probability: reaction-diffusion equations, stochastic branching processes, viscous conservation laws, stochastic PDEs
+Partial differential equations (PDEs) and probability: reaction--diffusion equations, stochastic branching processes, viscous conservation laws, stochastic PDEs
 
 Mathematics and climate change: climate impacts on agriculture, quantitative scoping of negative emissions technologies
 
@@ -38,12 +38,12 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2201.12641)
 
-*   The distance between the two BBM leaders  
-    with Julien Berestycik, Éric Brunet, Leonid Mytnik, Jean-Michel Roquejoffre, and Lenya Ryzhik  
-    To appear in _Nonlinearity_
+*   [The distance between the two BBM leaders](https://iopscience.iop.org/article/10.1088/1361-6544/ac4a8e)  
+    with Julien Berestycki, Éric Brunet, Leonid Mytnik, Jean-Michel Roquejoffre, and Lenya Ryzhik  
+    _Nonlinearity_ **35** (2022) 1558--1609  
     [\[arXiv\]](https://arxiv.org/abs/2010.10431)
 
-*   Reaction-diffusion equations in the half-space  
+*   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
     with Henri Berestycki  
     To appear in _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire_
     [\[arXiv\]](https://arxiv.org/abs/2007.13909)
