@@ -26,6 +26,10 @@ Partial differential equations (PDEs) and probability: reaction--diffusion equat
 
 Mathematics and climate change: climate impacts on agriculture, quantitative scoping of negative emissions technologies
 
+# Teaching
+
+In the fall of 2022 I am teaching APMA 1710: Information Theory.
+
 # Articles
 
 *   The inviscid limit of viscous Burgers at a nondegenerate first shock  
