@@ -30,7 +30,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 *   The steady states of strong-KPP reactions in general domains  
     with Henri Berestycki  
-    Submitted  
+    Submitted
     [\[arXiv\]](https://arxiv.org/abs/2212.06611)
 
 *   Invariant measures for stochastic conservation laws on the line  
@@ -38,14 +38,14 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2201.12641)
 
-*   [The inviscid limit of viscous Burgers at a nondegenerate first shock](https://link.springer.com/article/10.1007/s40818-022-00143-4) 
+*   [The inviscid limit of viscous Burgers at a nondegenerate first shock](https://link.springer.com/article/10.1007/s40818-022-00143-4)  
     with Sanchit Chaturvedi  
-    _Ann. PDE_ **9** Paper No. 1 
+    _Ann. PDE_ **9** Paper No. 1
     [\[arXiv\]](https://arxiv.org/abs/2204.01170)
 
 *   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
     with Henri Berestycki  
-    _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire_ **39** (2023) 1053--1095 
+    _Ann. Inst. H. Poincaré C Anal. Non Linéaire_ **39** (2023) 1053--1095
     [\[arXiv\]](https://arxiv.org/abs/2007.13909)
 
 *   [The distance between the two BBM leaders](https://iopscience.iop.org/article/10.1088/1361-6544/ac4a8e)  
