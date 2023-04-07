@@ -45,7 +45,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 *   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
     with Henri Berestycki  
-    _Ann. Inst. H. Poincaré C Anal. Non Linéaire_ **39** (2023) 1053--1095
+    _Ann. Inst. H. Poincaré C Anal. Non Linéaire_ **39** (2022) 1053--1095
     [\[arXiv\]](https://arxiv.org/abs/2007.13909)
 
 *   [The distance between the two BBM leaders](https://iopscience.iop.org/article/10.1088/1361-6544/ac4a8e)  
