@@ -26,31 +26,32 @@ Partial differential equations (PDEs) and probability: reaction--diffusion equat
 
 Mathematics and climate change: climate impacts on agriculture, quantitative scoping of negative emissions technologies
 
-# Teaching
-
-In the fall of 2022 I am teaching APMA 1710: Information Theory.
-
 # Articles
 
-*   The inviscid limit of viscous Burgers at a nondegenerate first shock  
-    with Sanchit Chaturvedi  
-    Submitted
-    [\[arXiv\]](https://arxiv.org/abs/2204.01170)
+*   The steady states of strong-KPP reactions in general domains  
+    with Henri Berestycki  
+    Submitted  
+    [\[arXiv\]](https://arxiv.org/abs/2212.06611)
 
 *   Invariant measures for stochastic conservation laws on the line  
     with Theodore Drivas, Alex Dunlap, Joonhyun La, and Lenya Ryzhik  
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2201.12641)
 
+*   [The inviscid limit of viscous Burgers at a nondegenerate first shock](https://link.springer.com/article/10.1007/s40818-022-00143-4) 
+    with Sanchit Chaturvedi  
+    _Ann. PDE_ **9** Paper No. 1 
+    [\[arXiv\]](https://arxiv.org/abs/2204.01170)
+
+*   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
+    with Henri Berestycki  
+    _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire_ **39** (2023) 1053--1095 
+    [\[arXiv\]](https://arxiv.org/abs/2007.13909)
+
 *   [The distance between the two BBM leaders](https://iopscience.iop.org/article/10.1088/1361-6544/ac4a8e)  
     with Julien Berestycki, Éric Brunet, Leonid Mytnik, Jean-Michel Roquejoffre, and Lenya Ryzhik  
     _Nonlinearity_ **35** (2022) 1558--1609
     [\[arXiv\]](https://arxiv.org/abs/2010.10431)
-
-*   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
-    with Henri Berestycki  
-    To appear in _Ann. Inst. Henri Poincaré (C) Anal. Non Linéaire_
-    [\[arXiv\]](https://arxiv.org/abs/2007.13909)
 
 *   [The Bramson correction for integro-differential Fisher–KPP equations](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0020/0002/a012/)  
     _Commun. Math. Sci._ **20** (2022) 563--596
