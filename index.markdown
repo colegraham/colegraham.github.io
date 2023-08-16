@@ -28,19 +28,24 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 # Articles
 
+*   KPP traveling waves in the half-space  
+    with Julien Berestycki, Yujin H. Kim, and Bastien Mallein  
+    Submitted
+    [\[arXiv\]](https://arxiv.org/abs/2305.17057)
+
 *   The steady states of strong-KPP reactions in general domains  
     with Henri Berestycki  
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2212.06611)
 
-*   Invariant measures for stochastic conservation laws on the line  
+*   [Invariant measures for stochastic conservation laws on the line](https://iopscience.iop.org/article/10.1088/1361-6544/acdb3a)  
     with Theodore Drivas, Alex Dunlap, Joonhyun La, and Lenya Ryzhik  
-    Submitted
+    _Nonlinearity_ **36** (2023) 4553--4584
     [\[arXiv\]](https://arxiv.org/abs/2201.12641)
 
 *   [The inviscid limit of viscous Burgers at a nondegenerate first shock](https://link.springer.com/article/10.1007/s40818-022-00143-4)  
     with Sanchit Chaturvedi  
-    _Ann. PDE_ **9** Paper No. 1
+    _Ann. PDE_ **9** (2023) Paper No. 1
     [\[arXiv\]](https://arxiv.org/abs/2204.01170)
 
 *   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
