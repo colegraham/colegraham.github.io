@@ -28,6 +28,15 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 # Articles
 
+*   The 2D nonlinear stochastic heat equation: pointwise statistics and the decoupling function  
+    with Alexander Dunlap
+    [\[arXiv\]](https://arxiv.org/abs/2308.11850)
+
+*   Uniqueness and root-Lipschitz regularity for a degenerate heat equation
+    with Alexander Dunlap
+    Submitted
+    [\[arXiv\]](https://arxiv.org/abs/2308.11820)
+
 *   KPP traveling waves in the half-space  
     with Julien Berestycki, Yujin H. Kim, and Bastien Mallein  
     Submitted
