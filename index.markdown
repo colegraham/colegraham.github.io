@@ -33,7 +33,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
     [\[arXiv\]](https://arxiv.org/abs/2308.11850)
 
 *   Uniqueness and root-Lipschitz regularity for a degenerate heat equation
-    with Alexander Dunlap
+    with Alexander Dunlap  
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2308.11820)
 
