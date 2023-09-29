@@ -22,11 +22,16 @@ I completed my PhD in 2021 at Stanford University under the direction of Lenya R
 
 # Interests
 
-Partial differential equations (PDEs) and probability: reaction--diffusion equations, stochastic branching processes, viscous conservation laws, stochastic PDEs
+Partial differential equations (PDEs) and probability: reaction-diffusion equations, stochastic branching processes, viscous conservation laws, stochastic PDEs
 
 Mathematics and climate change: climate impacts on agriculture, quantitative scoping of negative emissions technologies
 
 # Articles
+
+*   The steady states of positive reaction-diffusion equations with Dirichlet conditions  
+    with Henri Berestycki  
+    Submitted
+    [\[arXiv\]](https://arxiv.org/abs/2309.16642)
 
 *   The 2D nonlinear stochastic heat equation: pointwise statistics and the decoupling function  
     with Alexander Dunlap  
