@@ -50,7 +50,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 *   The steady states of strong-KPP reactions in general domains  
     with Henri Berestycki  
-    Submitted
+    _J. Eur. Math. Soc._ (Accepted)
     [\[arXiv\]](https://arxiv.org/abs/2212.06611)
 
 *   [Invariant measures for stochastic conservation laws on the line](https://iopscience.iop.org/article/10.1088/1361-6544/acdb3a)  
