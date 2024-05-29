@@ -16,7 +16,8 @@ Office 213A
 
 # About
 
-I'm a Prager Assistant Professor in the Division of Applied Mathematics at Brown University, funded by an NSF Postdoctoral Fellowship.
+In the spring of 2024, I am concluding my time as a Prager Assistant Professor in the Division of Applied Mathematics at Brown University.
+In the fall, I will begin an appointment as an assistant professor in the Department of Mathematics at the University of Wisconsin&ndash;Madison.
 
 I completed my PhD in 2021 at Stanford University under the direction of Lenya Ryzhik.
 
@@ -24,9 +25,14 @@ I completed my PhD in 2021 at Stanford University under the direction of Lenya R
 
 Partial differential equations (PDEs) and probability: reaction-diffusion equations, stochastic branching processes, viscous conservation laws, stochastic PDEs
 
-Mathematics and climate change: climate impacts on agriculture, quantitative scoping of negative emissions technologies
+Mathematics and climate change: climate impacts on agriculture, quantitative scoping of carbon dioxide removal
 
 # Articles
+
+*   Edwards--Wilkinson fluctuations in subcritical 2D stochastic heat equations
+    with Alexander Dunlap
+    Submitted
+    [\[arXiv\]](https://arxiv.org/abs/2405.09520)
 
 *   The steady states of positive reaction-diffusion equations with Dirichlet conditions  
     with Henri Berestycki  
@@ -63,7 +69,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
     _Ann. PDE_ **9** (2023) Paper No. 1
     [\[arXiv\]](https://arxiv.org/abs/2204.01170)
 
-*   [Reaction--diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
+*   [Reaction-diffusion equations in the half-space](https://ems.press/journals/aihpc/articles/4938802)  
     with Henri Berestycki  
     _Ann. Inst. H. Poincaré C Anal. Non Linéaire_ **39** (2022) 1053--1095
     [\[arXiv\]](https://arxiv.org/abs/2007.13909)
