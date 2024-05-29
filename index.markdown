@@ -29,7 +29,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 
 # Articles
 
-*   Edwards--Wilkinson fluctuations in subcritical 2D stochastic heat equations
+*   Edwards--Wilkinson fluctuations in subcritical 2D stochastic heat equations  
     with Alexander Dunlap  
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2405.09520)
