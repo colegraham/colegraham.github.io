@@ -17,7 +17,7 @@ Office 213A
 # About
 
 In the spring of 2024, I am concluding my time as a Prager Assistant Professor in the Division of Applied Mathematics at Brown University.
-In the fall, I will begin an appointment as an assistant professor in the Department of Mathematics at the University of Wisconsin&ndash;Madison.
+In the fall, I will begin an appointment as an assistant professor in the Department of Mathematics at the University of Wisconsin--Madison.
 
 I completed my PhD in 2021 at Stanford University under the direction of Lenya Ryzhik.
 
@@ -30,7 +30,7 @@ Mathematics and climate change: climate impacts on agriculture, quantitative sco
 # Articles
 
 *   Edwards--Wilkinson fluctuations in subcritical 2D stochastic heat equations
-    with Alexander Dunlap
+    with Alexander Dunlap  
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2405.09520)
 
