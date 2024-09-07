@@ -8,24 +8,25 @@ title: Cole Graham
 
 # Contact
 
-[``cole_graham@brown.edu``](mailto:cole_graham@brown.edu)
+[``graham@math.wisc.edu``](mailto:graham@math.wisc.edu)
 
-Division of Applied Mathematics  
-182 George St  
-Office 213A
+Department of Mathematics  
+University of Wisconsin--Madison  
+Van Vleck Hall  
+Office 313
 
 # About
 
-In the spring of 2024, I am concluding my time as a Prager Assistant Professor in the Division of Applied Mathematics at Brown University.
-In the fall, I will begin an appointment as an assistant professor in the Department of Mathematics at the University of Wisconsin--Madison.
+I am an assistant professor in the Department of Mathematics at the University of Wisconsin--Madison.
 
 I completed my PhD in 2021 at Stanford University under the direction of Lenya Ryzhik.
+From 2021--2024, I was a Prager Assistant Professor and NSF Postdoctoral Fellow in the Division of Applied Mathematics at Brown University.
 
 # Interests
 
-Partial differential equations (PDEs) and probability: reaction-diffusion equations, stochastic branching processes, viscous conservation laws, stochastic PDEs
+Partial differential equations (PDEs) and probability: reaction-diffusion equations, branching processes, stochastic PDEs, viscous conservation laws 
 
-Mathematics and climate change: climate impacts on agriculture, quantitative scoping of carbon dioxide removal
+Mathematics and climate change: climate impacts on agriculture, carbon dioxide removal
 
 # Articles
 
