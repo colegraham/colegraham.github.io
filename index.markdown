@@ -30,6 +30,11 @@ Mathematics and climate change: climate impacts on agriculture, carbon dioxide r
 
 # Articles
 
+*   Uniqueness and multiplicity for semilinear elliptic problems in unbounded domains  
+    with Henri Berestycki and Juncheng Wei  
+    Submitted
+    [\[arXiv\]](https://arxiv.org/abs/2502.16780)
+
 *   Edwards--Wilkinson fluctuations in subcritical 2D stochastic heat equations  
     with Alexander Dunlap  
     Submitted
@@ -45,9 +50,9 @@ Mathematics and climate change: climate impacts on agriculture, carbon dioxide r
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2308.11850)
 
-*   Uniqueness and root-Lipschitz regularity for a degenerate heat equation  
+*   [Uniqueness and root-Lipschitz regularity for a degenerate heat equation](https://epubs.siam.org/doi/full/10.1137/23M1596260)  
     with Alexander Dunlap  
-    Submitted
+    _SIAM J. Math. Anal._ **57** (2025) 1866--1891
     [\[arXiv\]](https://arxiv.org/abs/2308.11820)
 
 *   KPP traveling waves in the half-space  
@@ -55,9 +60,9 @@ Mathematics and climate change: climate impacts on agriculture, carbon dioxide r
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2305.17057)
 
-*   The steady states of strong-KPP reactions in general domains  
+*   [The steady states of strong-KPP reactions in general domains](https://ems.press/journals/jems/articles/14298496)  
     with Henri Berestycki  
-    _J. Eur. Math. Soc._ (Accepted)
+    _J. Eur. Math. Soc._ (2025)
     [\[arXiv\]](https://arxiv.org/abs/2212.06611)
 
 *   [Invariant measures for stochastic conservation laws on the line](https://iopscience.iop.org/article/10.1088/1361-6544/acdb3a)  
