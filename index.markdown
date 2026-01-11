@@ -24,28 +24,34 @@ From 2021--2024, I was a Prager Assistant Professor and NSF Postdoctoral Fellow 
 
 # Interests
 
-Partial differential equations (PDEs) and probability: reaction-diffusion equations, branching processes, stochastic PDEs, viscous conservation laws 
-
-Mathematics and climate change: climate impacts on agriculture, carbon dioxide removal
+Partial differential equations (PDEs) and probability: reaction-diffusion equations, branching processes, stochastic PDEs, viscous conservation laws  
 
 # Articles
+
+*   Shock formation in 1D conservation laws IO: Vanishing viscosity  
+    with John Anderson and Sanchit Chaturvedi
+    [\[arXiv\]](https://arxiv.org/abs/2506.17156)
+
+*   Shock formation in 1D conservation laws I: Inviscid structure  
+    with John Anderson and Sanchit Chaturvedi
+    [\[arXiv\]](https://arxiv.org/abs/2506.17148)
 
 *   Uniqueness and multiplicity for semilinear elliptic problems in unbounded domains  
     with Henri Berestycki and Juncheng Wei  
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2502.16780)
 
-*   Edwards--Wilkinson fluctuations in subcritical 2D stochastic heat equations  
+*   [Edwards--Wilkinson fluctuations in subcritical 2D stochastic heat equations](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-30/issue-none/EdwardsWilkinson-fluctuations-in-subcritical-2D-stochastic-heat-equations/10.1214/25-ECP735.full)  
     with Alexander Dunlap  
-    Submitted
+    _Electron. Commun. Probab._ *30* (2025) 1--11
     [\[arXiv\]](https://arxiv.org/abs/2405.09520)
 
 *   The steady states of positive reaction-diffusion equations with Dirichlet conditions  
     with Henri Berestycki  
-    Submitted
+    _Arch. Ration. Mech. Anal._ (Accepted)
     [\[arXiv\]](https://arxiv.org/abs/2309.16642)
 
-*   The 2D nonlinear stochastic heat equation: pointwise statistics and the decoupling function  
+*   Renormalization flow for the 2D nonlinear stochastic heat equation: pointwise statistics and universality  
     with Alexander Dunlap  
     Submitted
     [\[arXiv\]](https://arxiv.org/abs/2308.11850)
@@ -55,9 +61,9 @@ Mathematics and climate change: climate impacts on agriculture, carbon dioxide r
     _SIAM J. Math. Anal._ **57** (2025) 1866--1891
     [\[arXiv\]](https://arxiv.org/abs/2308.11820)
 
-*   KPP traveling waves in the half-space  
+*   [KPP traveling waves in the half-space](https://link.springer.com/article/10.1007/s00220-025-05445-9)  
     with Julien Berestycki, Yujin H. Kim, and Bastien Mallein  
-    Submitted
+    _Comm. Math. Phys._ **406** (2025) Paper No. 275
     [\[arXiv\]](https://arxiv.org/abs/2305.17057)
 
 *   [The steady states of strong-KPP reactions in general domains](https://ems.press/journals/jems/articles/14298496)  
