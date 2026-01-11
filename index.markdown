@@ -28,7 +28,7 @@ Partial differential equations (PDEs) and probability: reaction-diffusion equati
 
 # Articles
 
-*   Shock formation in 1D conservation laws IO: Vanishing viscosity  
+*   Shock formation in 1D conservation laws II: Vanishing viscosity  
     with John Anderson and Sanchit Chaturvedi
     [\[arXiv\]](https://arxiv.org/abs/2506.17156)
 
