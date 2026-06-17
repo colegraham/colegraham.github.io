@@ -46,7 +46,7 @@ Partial differential equations (PDEs) and probability: reaction-diffusion equati
     _Electron. Commun. Probab._ *30* (2025) 1--11
     [\[arXiv\]](https://arxiv.org/abs/2405.09520)
 
-*   The steady states of positive reaction-diffusion equations with Dirichlet conditions  
+*   A stable-compact method for qualitative properties of semilinear elliptic equations  
     with Henri Berestycki  
     _Arch. Ration. Mech. Anal._ (Accepted)
     [\[arXiv\]](https://arxiv.org/abs/2309.16642)
