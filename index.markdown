@@ -46,9 +46,9 @@ Partial differential equations (PDEs) and probability: reaction-diffusion equati
     _Electron. Commun. Probab._ *30* (2025) 1--11
     [\[arXiv\]](https://arxiv.org/abs/2405.09520)
 
-*   A stable-compact method for qualitative properties of semilinear elliptic equations  
+*   [A stable-compact method for qualitative properties of semilinear elliptic equations](https://link.springer.com/article/10.1007/s00205-026-02168-6)  
     with Henri Berestycki  
-    _Arch. Ration. Mech. Anal._ (Accepted)
+    _Arch. Ration. Mech. Anal._ **250** (2026) Article No. 21
     [\[arXiv\]](https://arxiv.org/abs/2309.16642)
 
 *   Renormalization flow for the 2D nonlinear stochastic heat equation: pointwise statistics and universality  
